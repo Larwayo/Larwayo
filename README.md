@@ -1,3 +1,4 @@
+![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]
 # 💫 About Me:
 🔭 I’m currently working on some beginner project<br>🌱 I’m currently learning Fullstack Web Development<br>⚡ Fun fact : I love music
 
